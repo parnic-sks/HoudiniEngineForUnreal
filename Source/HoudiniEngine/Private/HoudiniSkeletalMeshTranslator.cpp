@@ -1839,7 +1839,7 @@ FHoudiniSkeletalMeshTranslator::CreateSkeletalMeshMaterials(
 
 			continue;
 
-			MaterialInterface = nullptr;
+			// MaterialInterface = nullptr;
 		}
 
 		SkeletalMeshImportData::FMaterial CurrentMat;
